@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Vibe_Swap</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600;700&family=Noto+Serif+SC:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="page-shell">
+    <section class="hero-card">
+      <p class="eyebrow">Ingredient Shadow Map</p>
+      <h1 class="main-title">Vibe-Swap</h1>
+      <p class="desc">缺什么食材？先别慌。用口感、油脂感、酸度和鲜味，把它在图谱里的“影子节点”找出来。</p>
+      <div class="hero-tags">
+        <span>结构等效替代</span>
+        <span>移动端优先</span>
+        <span>可扩展到 500+ 食材</span>
+      </div>
+    </section>
+
+    <section class="panel search-panel">
+      <div class="section-head">
+        <div>
+          <p class="section-kicker">Step 1</p>
+          <h2>搜索当前缺失的食材</h2>
+        </div>
+        <p class="section-note">现在支持中文名、英文名和别名搜索，下一阶段再补分类筛选和更多排序规则。</p>
+      </div>
+
+      <div class="search-box">
+        <label class="field-label" for="targetFoodInput">目标食材</label>
+        <div class="search-input-wrap">
+          <input
+            id="targetFoodInput"
+            type="text"
+            autocomplete="off"
+            placeholder="例如：三文鱼、salmon、牛奶、avocado"
+          />
+          <div id="selectedFoodHint" class="selected-food-hint"></div>
+        </div>
+        <div class="filter-grid">
+          <div class="filter-item">
+            <label class="field-label" for="categoryFilter">类别筛选</label>
+            <select id="categoryFilter">
+              <option value="">全部类别</option>
+            </select>
+          </div>
+          <div class="filter-item">
+            <label class="field-label" for="dietaryFilter">饮食偏好</label>
+            <select id="dietaryFilter">
+              <option value="">不限</option>
+              <option value="vegan">纯素</option>
+              <option value="vegetarian">蛋奶素</option>
+              <option value="pescatarian">可吃海鲜</option>
+            </select>
+          </div>
+        </div>
+        <div id="searchSuggestions" class="search-suggestions"></div>
+        <button id="searchBtn">生成替代建议</button>
+        <p id="dataSourceStatus" class="data-source-status">正在准备连接云端食材库...</p>
+        <p id="searchMeta" class="search-meta">试着输入食材名称或别名，系统会实时给你候选项。</p>
+      </div>
+    </section>
+
+    <section id="targetSection" class="panel overview-panel hidden">
+      <div class="section-head">
+        <div>
+          <p class="section-kicker">Target Profile</p>
+          <h2>目标食材气质画像</h2>
+        </div>
+      </div>
+      <div id="targetCard"></div>
+    </section>
+
+    <section id="resultSection" class="panel result-section hidden">
+      <div class="section-head">
+        <div>
+          <p class="section-kicker">Matches</p>
+          <h2>推荐替代结果</h2>
+        </div>
+        <p id="resultSummary" class="section-note"></p>
+      </div>
+      <div id="resultList" class="result-list"></div>
+    </section>
+  </main>
+
+  <script src="api-config.js"></script>
+  <script src="api.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

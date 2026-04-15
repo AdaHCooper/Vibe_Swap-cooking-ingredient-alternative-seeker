@@ -1,0 +1,22 @@
+{
+  "name": "vibe-swap",
+  "version": "1.0.0",
+  "description": "This project now includes a portable serverless API endpoint: `GET /api/catalog`.",
+  "main": "api-config.js",
+  "scripts": {
+    "dev:api": "node scripts/dev-api.js",
+    "catalog:build": "node scripts/build-expanded-catalog.js",
+    "catalog:generate-extra": "node scripts/generate-extra-catalog.js 120",
+    "check:serverless": "node scripts/validate-serverless.js",
+    "seed:sql": "node scripts/generate-seed-sql.js",
+    "seed:sql:expanded": "node scripts/generate-seed-sql.js data/catalog-expanded.json",
+    "test": "npm run check:serverless"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "pg": "^8.20.0"
+  }
+}
