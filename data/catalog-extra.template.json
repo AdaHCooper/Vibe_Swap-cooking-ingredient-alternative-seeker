@@ -1,0 +1,49 @@
+{
+  "foods": [
+    {
+      "id": "turkey-breast",
+      "name": "火鸡胸肉",
+      "nameEn": "Turkey Breast",
+      "aliases": ["turkey breast", "火鸡胸"],
+      "category": "家常蛋白",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Turkey",
+      "texture": "紧实",
+      "fatty": 2,
+      "umami": 6,
+      "acidity": 1,
+      "sweetness": 1,
+      "wateriness": 4,
+      "aroma": 4,
+      "cookMethods": ["煎制", "焗烤", "切片冷食"],
+      "dietaryTags": [],
+      "allergens": [],
+      "bestFor": "三明治、热碗饭和高蛋白餐盒",
+      "advantage": "高蛋白低脂，风味中性容易调味",
+      "disadvantage": "处理不好会偏干",
+      "vibeNote": "可作为鸡胸肉的替代蛋白，适合维持紧实口感与高蛋白定位。"
+    },
+    {
+      "id": "almond-milk",
+      "name": "杏仁奶",
+      "nameEn": "Almond Milk",
+      "aliases": ["almond milk", "杏仁饮"],
+      "category": "植物奶",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Almond+Milk",
+      "texture": "顺滑",
+      "fatty": 3,
+      "umami": 1,
+      "acidity": 2,
+      "sweetness": 2,
+      "wateriness": 8,
+      "aroma": 3,
+      "cookMethods": ["冷饮", "加热", "调饮"],
+      "dietaryTags": ["vegan"],
+      "allergens": ["tree-nut"],
+      "bestFor": "拿铁、燕麦杯和轻甜点",
+      "advantage": "植物基替代友好，风味较温和",
+      "disadvantage": "乳感和厚度偏弱",
+      "vibeNote": "适合轻量化奶类替代，能保住液体基底角色但浓郁度较低。"
+    }
+  ],
+  "dimensions": []
+}

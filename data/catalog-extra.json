@@ -1,0 +1,2897 @@
+{
+  "foods": [
+    {
+      "id": "salmon-x1",
+      "name": "三文鱼扩展款1",
+      "nameEn": "Salmon Variant 1",
+      "aliases": [
+        "大西洋鲑",
+        "salmon",
+        "三文鱼1",
+        "variant-1"
+      ],
+      "category": "海鲜蛋白",
+      "image": "https://img.icons8.com/stickers/200/000000/salmon-sushi.png",
+      "texture": "紧实",
+      "fatty": 8,
+      "umami": 9,
+      "acidity": 2,
+      "sweetness": 1,
+      "wateriness": 5,
+      "aroma": 6,
+      "cookMethods": [
+        "生食",
+        "炙烤",
+        "拌饭",
+        "炖煮"
+      ],
+      "dietaryTags": [
+        "pescatarian"
+      ],
+      "allergens": [
+        "fish"
+      ],
+      "bestFor": "寿司碗、轻食沙拉、拌饭和吐司（扩展款1）",
+      "advantage": "口感高级、油脂饱满、鲜味稳定，更适合做结构替代测试。",
+      "disadvantage": "价格高、保鲜要求高，风味表现会有轻微偏移。",
+      "vibeNote": "适合提供顺滑油脂感和明显鲜味，是冷食里非常强势的主角食材。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "avocado-x2",
+      "name": "牛油果扩展款2",
+      "nameEn": "Avocado Variant 2",
+      "aliases": [
+        "鳄梨",
+        "avocado",
+        "牛油果2",
+        "variant-2"
+      ],
+      "category": "果脂类",
+      "image": "https://img.icons8.com/stickers/200/000000/avocado.png",
+      "texture": "弹嫩",
+      "fatty": 9,
+      "umami": 5,
+      "acidity": 2,
+      "sweetness": 1,
+      "wateriness": 4,
+      "aroma": 5,
+      "cookMethods": [
+        "冷拌",
+        "捣泥",
+        "铺面",
+        "凉拌"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [],
+      "bestFor": "寿司碗、开放三明治、沙拉和酱泥（扩展款2）",
+      "advantage": "容易买到，能补足丝滑感和油脂感，更适合做结构替代测试。",
+      "disadvantage": "海鲜鲜味弱，整体更偏植物清香，风味表现会有轻微偏移。",
+      "vibeNote": "很适合承担丝滑和丰润感，但无法完整复刻海产的咸鲜气质。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "egg-x3",
+      "name": "鸡蛋扩展款3",
+      "nameEn": "Egg Variant 3",
+      "aliases": [
+        "鸡子",
+        "egg",
+        "鸡蛋3",
+        "variant-3"
+      ],
+      "category": "日常蛋白",
+      "image": "https://img.icons8.com/stickers/200/000000/egg.png",
+      "texture": "柔嫩",
+      "fatty": 6,
+      "umami": 6,
+      "acidity": 0,
+      "sweetness": 2,
+      "wateriness": 5,
+      "aroma": 3,
+      "cookMethods": [
+        "水煮",
+        "煎制",
+        "炒制",
+        "焗烤"
+      ],
+      "dietaryTags": [
+        "vegetarian"
+      ],
+      "allergens": [
+        "egg"
+      ],
+      "bestFor": "早餐碗、三明治、盖饭和简易沙拉（扩展款3）",
+      "advantage": "便宜、常见、烹饪门槛低，更适合做结构替代测试。",
+      "disadvantage": "风味更温和，视觉冲击力不如生鲜蛋白，风味表现会有轻微偏移。",
+      "vibeNote": "鸡蛋在居家替代里非常实用，能提供柔软口感和一定鲜味，但风格更家常。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "tofu-x4",
+      "name": "豆腐扩展款4",
+      "nameEn": "Tofu Variant 4",
+      "aliases": [
+        "嫩豆腐",
+        "tofu",
+        "豆腐4",
+        "variant-4"
+      ],
+      "category": "植物蛋白",
+      "image": "https://img.icons8.com/stickers/200/000000/tofu.png",
+      "texture": "浓滑",
+      "fatty": 0,
+      "umami": 7,
+      "acidity": 1,
+      "sweetness": 0,
+      "wateriness": 8,
+      "aroma": 4,
+      "cookMethods": [
+        "凉拌",
+        "炖煮",
+        "轻煎",
+        "快炒"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [
+        "soy"
+      ],
+      "bestFor": "拌饭、味噌汤、清淡炒菜和轻食碗（扩展款4）",
+      "advantage": "低脂、健康、价格友好，适合大多数家庭常备，更适合做结构替代测试。",
+      "disadvantage": "油脂感不足，需要额外调味或酱汁辅助，风味表现会有轻微偏移。",
+      "vibeNote": "豆腐很擅长接住清淡和软嫩的部分，但不适合直接替代高油脂食材的满足感。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "milk-x5",
+      "name": "牛奶扩展款5",
+      "nameEn": "Milk Variant 5",
+      "aliases": [
+        "全脂奶",
+        "milk",
+        "牛奶5",
+        "variant-5"
+      ],
+      "category": "乳制品",
+      "image": "https://img.icons8.com/stickers/200/000000/milk-bottle.png",
+      "texture": "脆爽",
+      "fatty": 8,
+      "umami": 1,
+      "acidity": 4,
+      "sweetness": 4,
+      "wateriness": 7,
+      "aroma": 1,
+      "cookMethods": [
+        "冷饮",
+        "加热",
+        "打奶泡",
+        "拌饭"
+      ],
+      "dietaryTags": [
+        "vegetarian"
+      ],
+      "allergens": [
+        "milk"
+      ],
+      "bestFor": "拿铁、燕麦杯、奶油汤和基础烘焙（扩展款5）",
+      "advantage": "适配范围广，是许多饮品和甜品的基础液体，更适合做结构替代测试。",
+      "disadvantage": "乳糖不耐受人群不友好，风味表现会有轻微偏移。",
+      "vibeNote": "牛奶偏中性、顺滑，适合作为液体基底。很多替代品都是在模仿它的顺口和乳感。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "yogurt-x6",
+      "name": "酸奶扩展款6",
+      "nameEn": "Yogurt Variant 6",
+      "aliases": [
+        "优格",
+        "yogurt",
+        "酸奶6",
+        "variant-6"
+      ],
+      "category": "乳制品",
+      "image": "https://img.icons8.com/stickers/200/000000/yogurt.png",
+      "texture": "丝滑",
+      "fatty": 4,
+      "umami": 3,
+      "acidity": 8,
+      "sweetness": 3,
+      "wateriness": 6,
+      "aroma": 4,
+      "cookMethods": [
+        "冷拌",
+        "杯装甜品",
+        "调酱",
+        "夹馅"
+      ],
+      "dietaryTags": [
+        "vegetarian"
+      ],
+      "allergens": [
+        "milk"
+      ],
+      "bestFor": "冷饮、酱汁、隔夜燕麦和轻甜点（扩展款6）",
+      "advantage": "浓稠度强，发酵感能让风味更立体，更适合做结构替代测试。",
+      "disadvantage": "酸度高，不适合所有咖啡和甜点场景，风味表现会有轻微偏移。",
+      "vibeNote": "酸奶比牛奶更有个性，适合替代质地，但会明显改变风味走向。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "chicken-breast-x7",
+      "name": "鸡胸肉扩展款7",
+      "nameEn": "Chicken Breast Variant 7",
+      "aliases": [
+        "鸡胸",
+        "chicken breast",
+        "鸡胸肉7",
+        "variant-7"
+      ],
+      "category": "家常蛋白",
+      "image": "https://img.icons8.com/stickers/200/000000/chicken-breast.png",
+      "texture": "绵密",
+      "fatty": 2,
+      "umami": 6,
+      "acidity": 2,
+      "sweetness": 1,
+      "wateriness": 3,
+      "aroma": 5,
+      "cookMethods": [
+        "水煮",
+        "煎制",
+        "焗烤",
+        "调酱"
+      ],
+      "dietaryTags": [],
+      "allergens": [],
+      "bestFor": "健身沙拉、热碗饭、卷饼和三明治（扩展款7）",
+      "advantage": "高蛋白、低脂、好获取，更适合做结构替代测试。",
+      "disadvantage": "如果处理不好容易偏柴，顺滑感不强，风味表现会有轻微偏移。",
+      "vibeNote": "鸡胸肉胜在实用和稳定，更像是功能型替代，而不是气质完全复刻。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "beef-x8",
+      "name": "牛肉扩展款8",
+      "nameEn": "Beef Variant 8",
+      "aliases": [
+        "牛排肉",
+        "beef",
+        "牛肉8",
+        "variant-8"
+      ],
+      "category": "红肉蛋白",
+      "image": "https://img.icons8.com/stickers/200/000000/steak.png",
+      "texture": "软嫩",
+      "fatty": 7,
+      "umami": 9,
+      "acidity": 0,
+      "sweetness": 2,
+      "wateriness": 3,
+      "aroma": 6,
+      "cookMethods": [
+        "煎制",
+        "炖煮",
+        "热拌"
+      ],
+      "dietaryTags": [],
+      "allergens": [],
+      "bestFor": "能量碗、热拌饭、意面和煎炒主菜（扩展款8）",
+      "advantage": "鲜味很强，饱腹感和存在感都足，更适合做结构替代测试。",
+      "disadvantage": "价格偏高，整体调性更厚重，风味表现会有轻微偏移。",
+      "vibeNote": "牛肉在鲜味维度很强，适合作为强风味替代，但会把菜整体拉向更浓郁的方向。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "tuna-x9",
+      "name": "金枪鱼扩展款9",
+      "nameEn": "Tuna Variant 9",
+      "aliases": [
+        "吞拿鱼",
+        "tuna",
+        "金枪鱼9",
+        "variant-9"
+      ],
+      "category": "海鲜蛋白",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Tuna",
+      "texture": "紧实",
+      "fatty": 2,
+      "umami": 10,
+      "acidity": 1,
+      "sweetness": 0,
+      "wateriness": 5,
+      "aroma": 8,
+      "cookMethods": [
+        "生食",
+        "炙烤",
+        "拌饭",
+        "炖煮"
+      ],
+      "dietaryTags": [
+        "pescatarian"
+      ],
+      "allergens": [
+        "fish"
+      ],
+      "bestFor": "寿司碗、三明治夹馅、沙拉和蛋白碗（扩展款9）",
+      "advantage": "鲜味强、蛋白高，很多冷食里都好替换，更适合做结构替代测试。",
+      "disadvantage": "油脂感不如三文鱼，口感更紧实，风味表现会有轻微偏移。",
+      "vibeNote": "金枪鱼更偏干净和利落，适合替代海鲜主角位，但整体风格更清爽。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "shrimp-x10",
+      "name": "虾仁扩展款10",
+      "nameEn": "Shrimp Variant 10",
+      "aliases": [
+        "虾",
+        "shrimp",
+        "虾仁10",
+        "variant-10"
+      ],
+      "category": "海鲜蛋白",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Shrimp",
+      "texture": "弹嫩",
+      "fatty": 4,
+      "umami": 5,
+      "acidity": 2,
+      "sweetness": 3,
+      "wateriness": 4,
+      "aroma": 3,
+      "cookMethods": [
+        "水煮",
+        "快炒",
+        "拌饭",
+        "凉拌"
+      ],
+      "dietaryTags": [
+        "pescatarian"
+      ],
+      "allergens": [
+        "shellfish"
+      ],
+      "bestFor": "轻食碗、意面、炒饭和快手沙拉（扩展款10）",
+      "advantage": "熟制快、鲜味稳定、存在感明显，更适合做结构替代测试。",
+      "disadvantage": "油脂感弱，冷食时不够丝滑，风味表现会有轻微偏移。",
+      "vibeNote": "虾仁像一个更轻盈的海鲜替身，适合保住鲜味但不适合复刻油润感。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "pork-x11",
+      "name": "猪肉扩展款11",
+      "nameEn": "Pork Variant 11",
+      "aliases": [
+        "里脊",
+        "pork",
+        "猪肉11",
+        "variant-11"
+      ],
+      "category": "家常蛋白",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Pork",
+      "texture": "柔嫩",
+      "fatty": 4,
+      "umami": 8,
+      "acidity": 1,
+      "sweetness": 1,
+      "wateriness": 5,
+      "aroma": 5,
+      "cookMethods": [
+        "煎制",
+        "快炒",
+        "炖煮",
+        "焗烤"
+      ],
+      "dietaryTags": [],
+      "allergens": [],
+      "bestFor": "家常炒菜、盖饭、三明治和热食碗（扩展款11）",
+      "advantage": "家用普适性高，兼顾鲜味和油脂，更适合做结构替代测试。",
+      "disadvantage": "风格偏厚重，不适合所有清爽场景，风味表现会有轻微偏移。",
+      "vibeNote": "猪肉比鸡胸更圆润，适合补足一点脂香，但整体气质会更家常。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "tempeh-x12",
+      "name": "天贝扩展款12",
+      "nameEn": "Tempeh Variant 12",
+      "aliases": [
+        "印尼天贝",
+        "tempeh",
+        "天贝12",
+        "variant-12"
+      ],
+      "category": "植物蛋白",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Tempeh",
+      "texture": "浓滑",
+      "fatty": 4,
+      "umami": 5,
+      "acidity": 2,
+      "sweetness": 1,
+      "wateriness": 2,
+      "aroma": 6,
+      "cookMethods": [
+        "煎制",
+        "焗烤",
+        "拌饭",
+        "快炒"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [
+        "soy"
+      ],
+      "bestFor": "植物蛋白碗、卷饼、沙拉和热三明治（扩展款12）",
+      "advantage": "蛋白密度高，咬感更接近肉类，更适合做结构替代测试。",
+      "disadvantage": "豆发酵风味明显，不一定适合所有人，风味表现会有轻微偏移。",
+      "vibeNote": "天贝比豆腐更像肉类替代，特别适合需要紧实口感的场景。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "chickpeas-x13",
+      "name": "鹰嘴豆扩展款13",
+      "nameEn": "Chickpeas Variant 13",
+      "aliases": [
+        "鸡豆",
+        "chickpeas",
+        "鹰嘴豆13",
+        "variant-13"
+      ],
+      "category": "植物蛋白",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Chickpeas",
+      "texture": "脆爽",
+      "fatty": 3,
+      "umami": 4,
+      "acidity": 0,
+      "sweetness": 3,
+      "wateriness": 3,
+      "aroma": 2,
+      "cookMethods": [
+        "炖煮",
+        "烘烤",
+        "捣泥",
+        "拌饭"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [],
+      "bestFor": "沙拉、豆泥酱、烤碗和植物蛋白拼盘（扩展款13）",
+      "advantage": "便于储存，饱腹感强，适合做豆泥和烤豆，更适合做结构替代测试。",
+      "disadvantage": "鲜味和油脂感都偏弱，需要调味支持，风味表现会有轻微偏移。",
+      "vibeNote": "鹰嘴豆更像是温和稳妥的结构型替代，适合撑起体积和绵密感。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "oat-milk-x14",
+      "name": "燕麦奶扩展款14",
+      "nameEn": "Oat Milk Variant 14",
+      "aliases": [
+        "燕麦饮",
+        "oat milk",
+        "燕麦奶14",
+        "variant-14"
+      ],
+      "category": "植物奶",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Oat+Milk",
+      "texture": "丝滑",
+      "fatty": 2,
+      "umami": 3,
+      "acidity": 2,
+      "sweetness": 3,
+      "wateriness": 9,
+      "aroma": 5,
+      "cookMethods": [
+        "冷饮",
+        "加热",
+        "打奶泡",
+        "夹馅"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "bestFor": "拿铁、谷物碗、奶昔和轻烘焙（扩展款14）",
+      "advantage": "植物感柔和，和咖啡搭配接受度高，更适合做结构替代测试。",
+      "disadvantage": "乳感和鲜味不如牛奶，容易略甜，风味表现会有轻微偏移。",
+      "vibeNote": "燕麦奶是很实用的牛奶替代，核心优势是顺滑度和易搭配性。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "coconut-milk-x15",
+      "name": "椰奶扩展款15",
+      "nameEn": "Coconut Milk Variant 15",
+      "aliases": [
+        "椰浆",
+        "coconut milk",
+        "椰奶15",
+        "variant-15"
+      ],
+      "category": "植物奶",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Coconut+Milk",
+      "texture": "绵密",
+      "fatty": 10,
+      "umami": 0,
+      "acidity": 2,
+      "sweetness": 4,
+      "wateriness": 5,
+      "aroma": 4,
+      "cookMethods": [
+        "炖煮",
+        "调饮",
+        "烘焙",
+        "调酱"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [],
+      "bestFor": "咖喱、热带风味甜品、奶昔和浓汤（扩展款15）",
+      "advantage": "油脂感足，能快速补出奶香和厚度，更适合做结构替代测试。",
+      "disadvantage": "椰香明显，会强烈改变风味方向，风味表现会有轻微偏移。",
+      "vibeNote": "椰奶擅长补足浓润感，但会把菜整体拉向热带和甜香方向。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "cream-x16",
+      "name": "淡奶油扩展款16",
+      "nameEn": "Cream Variant 16",
+      "aliases": [
+        "稀奶油",
+        "cream",
+        "淡奶油16",
+        "variant-16"
+      ],
+      "category": "乳制品",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Cream",
+      "texture": "软嫩",
+      "fatty": 8,
+      "umami": 3,
+      "acidity": 2,
+      "sweetness": 2,
+      "wateriness": 5,
+      "aroma": 3,
+      "cookMethods": [
+        "打发",
+        "炖煮",
+        "烘焙",
+        "煎制"
+      ],
+      "dietaryTags": [
+        "vegetarian"
+      ],
+      "allergens": [
+        "milk"
+      ],
+      "bestFor": "意面酱、奶油汤、蛋糕和甜品夹层（扩展款16）",
+      "advantage": "厚度和顺滑度很强，能快速建立浓郁口感，更适合做结构替代测试。",
+      "disadvantage": "热量高，日常替代成本偏重，风味表现会有轻微偏移。",
+      "vibeNote": "淡奶油像是把乳感推到更厚重的一端，适合做口感加强型替代。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "butter-x17",
+      "name": "黄油扩展款17",
+      "nameEn": "Butter Variant 17",
+      "aliases": [
+        "奶油块",
+        "butter",
+        "黄油17",
+        "variant-17"
+      ],
+      "category": "乳制品",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Butter",
+      "texture": "紧实",
+      "fatty": 10,
+      "umami": 1,
+      "acidity": 2,
+      "sweetness": 1,
+      "wateriness": 0,
+      "aroma": 6,
+      "cookMethods": [
+        "烘焙",
+        "煎制",
+        "抹面",
+        "炖煮"
+      ],
+      "dietaryTags": [
+        "vegetarian"
+      ],
+      "allergens": [
+        "milk"
+      ],
+      "bestFor": "烘焙、煎香、做酱和抹面提香（扩展款17）",
+      "advantage": "脂香强，少量就能显著提升满足感，更适合做结构替代测试。",
+      "disadvantage": "液体替代能力差，风格很重，风味表现会有轻微偏移。",
+      "vibeNote": "黄油更像是油脂和香气补强器，不是所有奶类都能直接用它顶。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "mozzarella-x18",
+      "name": "马苏里拉扩展款18",
+      "nameEn": "Mozzarella Variant 18",
+      "aliases": [
+        "mozzarella",
+        "马苏",
+        "马苏里拉18",
+        "variant-18"
+      ],
+      "category": "乳制品",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Mozzarella",
+      "texture": "弹嫩",
+      "fatty": 8,
+      "umami": 5,
+      "acidity": 1,
+      "sweetness": 2,
+      "wateriness": 4,
+      "aroma": 3,
+      "cookMethods": [
+        "焗烤",
+        "冷拌",
+        "夹馅",
+        "凉拌"
+      ],
+      "dietaryTags": [
+        "vegetarian"
+      ],
+      "allergens": [
+        "milk"
+      ],
+      "bestFor": "披萨、烤吐司、焗饭和卡普雷塞沙拉（扩展款18）",
+      "advantage": "拉丝表现强，视觉效果好，更适合做结构替代测试。",
+      "disadvantage": "风味比较温和，不是浓郁型奶酪，风味表现会有轻微偏移。",
+      "vibeNote": "马苏里拉更像结构和拉丝担当，适合视觉和口感迁移。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "cream-cheese-x19",
+      "name": "奶油奶酪扩展款19",
+      "nameEn": "Cream Cheese Variant 19",
+      "aliases": [
+        "cream cheese",
+        "软奶酪",
+        "奶油奶酪19",
+        "variant-19"
+      ],
+      "category": "乳制品",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Cream+Cheese",
+      "texture": "柔嫩",
+      "fatty": 6,
+      "umami": 5,
+      "acidity": 3,
+      "sweetness": 1,
+      "wateriness": 4,
+      "aroma": 6,
+      "cookMethods": [
+        "抹面",
+        "烘焙",
+        "调酱",
+        "焗烤"
+      ],
+      "dietaryTags": [
+        "vegetarian"
+      ],
+      "allergens": [
+        "milk"
+      ],
+      "bestFor": "贝果、芝士蛋糕、奶酪酱和夹馅（扩展款19）",
+      "advantage": "质地稳定，抹面和夹层表现很好，更适合做结构替代测试。",
+      "disadvantage": "风格偏厚，不适合替代轻盈乳品，风味表现会有轻微偏移。",
+      "vibeNote": "奶油奶酪是更厚、更稳的乳感版本，适合需要稠度和附着力的场景。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "mushroom-x20",
+      "name": "蘑菇扩展款20",
+      "nameEn": "Mushroom Variant 20",
+      "aliases": [
+        "菌菇",
+        "mushroom",
+        "蘑菇20",
+        "variant-20"
+      ],
+      "category": "鲜蔬菌菇",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Mushroom",
+      "texture": "浓滑",
+      "fatty": 3,
+      "umami": 6,
+      "acidity": 2,
+      "sweetness": 2,
+      "wateriness": 4,
+      "aroma": 4,
+      "cookMethods": [
+        "煎制",
+        "炖煮",
+        "快炒"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [],
+      "bestFor": "意面、炖饭、汉堡和植物系主菜（扩展款20）",
+      "advantage": "鲜味很强，是很多肉类替代里的核心角色，更适合做结构替代测试。",
+      "disadvantage": "缺少真正的油脂感，口感也更轻，风味表现会有轻微偏移。",
+      "vibeNote": "蘑菇是鲜味迁移的明星选手，特别适合补足肉类缺位时的气场。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "tomato-x21",
+      "name": "番茄扩展款21",
+      "nameEn": "Tomato Variant 21",
+      "aliases": [
+        "西红柿",
+        "tomato",
+        "番茄21",
+        "variant-21"
+      ],
+      "category": "鲜蔬果",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Tomato",
+      "texture": "脆爽",
+      "fatty": 0,
+      "umami": 5,
+      "acidity": 7,
+      "sweetness": 3,
+      "wateriness": 10,
+      "aroma": 4,
+      "cookMethods": [
+        "凉拌",
+        "炖煮",
+        "烘烤",
+        "拌饭"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [],
+      "bestFor": "意面酱、沙拉、炖菜和烤盘料理（扩展款21）",
+      "advantage": "酸甜平衡好，含水量高，适合带出清爽感，更适合做结构替代测试。",
+      "disadvantage": "本体感偏轻，不适合顶替厚重食材，风味表现会有轻微偏移。",
+      "vibeNote": "番茄擅长补酸度和汁感，是很多料理里风味平衡器而不是主体油脂源。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "cucumber-x22",
+      "name": "黄瓜扩展款22",
+      "nameEn": "Cucumber Variant 22",
+      "aliases": [
+        "青瓜",
+        "cucumber",
+        "黄瓜22",
+        "variant-22"
+      ],
+      "category": "鲜蔬果",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Cucumber",
+      "texture": "丝滑",
+      "fatty": 0,
+      "umami": 0,
+      "acidity": 2,
+      "sweetness": 1,
+      "wateriness": 9,
+      "aroma": 3,
+      "cookMethods": [
+        "生食",
+        "凉拌",
+        "夹馅"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [],
+      "bestFor": "三明治、卷饼、冷盘和清爽沙拉（扩展款22）",
+      "advantage": "清爽、便宜、含水量高，适合补脆感，更适合做结构替代测试。",
+      "disadvantage": "风味和厚度都弱，不能承担主角食材功能，风味表现会有轻微偏移。",
+      "vibeNote": "黄瓜更像质地和清爽度替代，不适合承担浓郁型食材的角色。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "cauliflower-x23",
+      "name": "花椰菜扩展款23",
+      "nameEn": "Cauliflower Variant 23",
+      "aliases": [
+        "菜花",
+        "cauliflower",
+        "花椰菜23",
+        "variant-23"
+      ],
+      "category": "鲜蔬果",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Cauliflower",
+      "texture": "绵密",
+      "fatty": 1,
+      "umami": 3,
+      "acidity": 0,
+      "sweetness": 3,
+      "wateriness": 4,
+      "aroma": 1,
+      "cookMethods": [
+        "烘烤",
+        "快炒",
+        "打碎",
+        "调酱"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [],
+      "bestFor": "低碳米饭替代、烤盘菜和浓汤（扩展款23）",
+      "advantage": "吸味能力好，适合做结构型主食替代，更适合做结构替代测试。",
+      "disadvantage": "自身风味轻，饱腹感和主食感有限，风味表现会有轻微偏移。",
+      "vibeNote": "花椰菜常用来顶主食或做绵松底层，更像结构迁移而不是风味迁移。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "spinach-x24",
+      "name": "菠菜扩展款24",
+      "nameEn": "Spinach Variant 24",
+      "aliases": [
+        "波菜",
+        "spinach",
+        "菠菜24",
+        "variant-24"
+      ],
+      "category": "鲜蔬果",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Spinach",
+      "texture": "软嫩",
+      "fatty": 0,
+      "umami": 5,
+      "acidity": 1,
+      "sweetness": 0,
+      "wateriness": 8,
+      "aroma": 5,
+      "cookMethods": [
+        "快炒",
+        "汆烫",
+        "拌面",
+        "煎制"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [],
+      "bestFor": "蛋饼、意面、轻汤和早餐碗（扩展款24）",
+      "advantage": "颜色和柔软叶感都适合补绿色蔬菜位，更适合做结构替代测试。",
+      "disadvantage": "体积塌缩明显，存在感偏弱，风味表现会有轻微偏移。",
+      "vibeNote": "菠菜偏柔和，适合用来接住绿叶菜角色，但不适合做质地主角。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "zucchini-x25",
+      "name": "西葫芦扩展款25",
+      "nameEn": "Zucchini Variant 25",
+      "aliases": [
+        "夏南瓜",
+        "zucchini",
+        "西葫芦25",
+        "variant-25"
+      ],
+      "category": "鲜蔬果",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Zucchini",
+      "texture": "紧实",
+      "fatty": 2,
+      "umami": 0,
+      "acidity": 2,
+      "sweetness": 3,
+      "wateriness": 7,
+      "aroma": 0,
+      "cookMethods": [
+        "煎制",
+        "烘烤",
+        "拌面",
+        "炖煮"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [],
+      "bestFor": "烤盘菜、意面、轻煎配菜和低碳料理（扩展款25）",
+      "advantage": "容易吸味，熟后质地柔软，更适合做结构替代测试。",
+      "disadvantage": "本身风味弱，容易出水，风味表现会有轻微偏移。",
+      "vibeNote": "西葫芦适合承担轻盈蔬菜位，能补柔软感但不适合浓味主菜替代。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "potato-x26",
+      "name": "土豆扩展款26",
+      "nameEn": "Potato Variant 26",
+      "aliases": [
+        "马铃薯",
+        "potato",
+        "土豆26",
+        "variant-26"
+      ],
+      "category": "根茎主食",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Potato",
+      "texture": "弹嫩",
+      "fatty": 0,
+      "umami": 3,
+      "acidity": 1,
+      "sweetness": 1,
+      "wateriness": 4,
+      "aroma": 2,
+      "cookMethods": [
+        "烘烤",
+        "水煮",
+        "压泥",
+        "凉拌"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [],
+      "bestFor": "泥、薯块、浓汤和焗烤配菜（扩展款26）",
+      "advantage": "饱腹感强，绵密度高，适合补体积，更适合做结构替代测试。",
+      "disadvantage": "风味比较平，不提供鲜味和油脂，风味表现会有轻微偏移。",
+      "vibeNote": "土豆是非常强的结构型替代，擅长给菜增加厚实感和绵密感。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "banana-x27",
+      "name": "香蕉扩展款27",
+      "nameEn": "Banana Variant 27",
+      "aliases": [
+        "banana",
+        "蕉",
+        "香蕉27",
+        "variant-27"
+      ],
+      "category": "鲜蔬果",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Banana",
+      "texture": "柔嫩",
+      "fatty": 1,
+      "umami": 0,
+      "acidity": 3,
+      "sweetness": 8,
+      "wateriness": 4,
+      "aroma": 7,
+      "cookMethods": [
+        "打泥",
+        "烘焙",
+        "调饮",
+        "焗烤"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [],
+      "bestFor": "奶昔、燕麦碗、松饼和健康烘焙（扩展款27）",
+      "advantage": "天然甜度高，能补黏合感和绵密口感，更适合做结构替代测试。",
+      "disadvantage": "香蕉香气明显，不适合所有甜品替代，风味表现会有轻微偏移。",
+      "vibeNote": "香蕉在甜口替代里很强，尤其适合接住绵密感和天然甜味。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "rice-x28",
+      "name": "米饭扩展款28",
+      "nameEn": "Rice Variant 28",
+      "aliases": [
+        "白饭",
+        "rice",
+        "米饭28",
+        "variant-28"
+      ],
+      "category": "主食谷物",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Rice",
+      "texture": "浓滑",
+      "fatty": 1,
+      "umami": 1,
+      "acidity": 0,
+      "sweetness": 2,
+      "wateriness": 4,
+      "aroma": 0,
+      "cookMethods": [
+        "蒸煮",
+        "拌饭",
+        "焗饭",
+        "快炒"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [],
+      "bestFor": "饭碗、咖喱饭、炒饭和寿司饭底（扩展款28）",
+      "advantage": "中性稳定，是最通用的主食底座之一，更适合做结构替代测试。",
+      "disadvantage": "本身风味弱，需要靠配料和酱汁撑气质，风味表现会有轻微偏移。",
+      "vibeNote": "米饭像一个中性底板，自己不抢戏，但能托住很多替代组合。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "pasta-x29",
+      "name": "意面扩展款29",
+      "nameEn": "Pasta Variant 29",
+      "aliases": [
+        "pasta",
+        "面条",
+        "意面29",
+        "variant-29"
+      ],
+      "category": "主食谷物",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Pasta",
+      "texture": "脆爽",
+      "fatty": 0,
+      "umami": 3,
+      "acidity": 0,
+      "sweetness": 0,
+      "wateriness": 4,
+      "aroma": 3,
+      "cookMethods": [
+        "水煮",
+        "拌酱",
+        "焗烤",
+        "拌饭"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "bestFor": "奶油面、番茄面、焗面和冷面沙拉（扩展款29）",
+      "advantage": "酱汁承载能力强，口感稳定，更适合做结构替代测试。",
+      "disadvantage": "风味中性，无法替代米饭那种颗粒分明感，风味表现会有轻微偏移。",
+      "vibeNote": "意面更重视弹韧和挂汁能力，适合作为酱汁型主食底。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "bread-x30",
+      "name": "面包扩展款30",
+      "nameEn": "Bread Variant 30",
+      "aliases": [
+        "吐司",
+        "bread",
+        "面包30",
+        "variant-30"
+      ],
+      "category": "主食谷物",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Bread",
+      "texture": "丝滑",
+      "fatty": 4,
+      "umami": 0,
+      "acidity": 2,
+      "sweetness": 3,
+      "wateriness": 1,
+      "aroma": 2,
+      "cookMethods": [
+        "夹馅",
+        "烘烤",
+        "抹酱"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "bestFor": "三明治、吐司盘、开放面包和法式早餐（扩展款30）",
+      "advantage": "上手快，适合承载酱料和主料，更适合做结构替代测试。",
+      "disadvantage": "含水量低，不适合替代湿润型主食，风味表现会有轻微偏移。",
+      "vibeNote": "面包更像一个蓬松载体，擅长接住夹馅和抹酱场景。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "oats-x31",
+      "name": "燕麦扩展款31",
+      "nameEn": "Oats Variant 31",
+      "aliases": [
+        "麦片",
+        "oats",
+        "燕麦31",
+        "variant-31"
+      ],
+      "category": "主食谷物",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Oats",
+      "texture": "绵密",
+      "fatty": 2,
+      "umami": 2,
+      "acidity": 1,
+      "sweetness": 2,
+      "wateriness": 5,
+      "aroma": 3,
+      "cookMethods": [
+        "熬煮",
+        "冷泡",
+        "烘焙",
+        "调酱"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "bestFor": "早餐碗、隔夜燕麦、能量棒和健康烘焙（扩展款31）",
+      "advantage": "饱腹感好，和奶类与水果兼容性高，更适合做结构替代测试。",
+      "disadvantage": "颗粒感和面粉结构不能完全互替，风味表现会有轻微偏移。",
+      "vibeNote": "燕麦偏温和和健康路线，适合早餐和轻烘焙里的基础替代。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "flour-x32",
+      "name": "面粉扩展款32",
+      "nameEn": "Flour Variant 32",
+      "aliases": [
+        "小麦粉",
+        "flour",
+        "面粉32",
+        "variant-32"
+      ],
+      "category": "烘焙原料",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Flour",
+      "texture": "软嫩",
+      "fatty": 1,
+      "umami": 0,
+      "acidity": 1,
+      "sweetness": 1,
+      "wateriness": 0,
+      "aroma": 2,
+      "cookMethods": [
+        "烘焙",
+        "裹粉",
+        "勾芡",
+        "煎制"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "bestFor": "蛋糕、饼干、面糊和基础面团（扩展款32）",
+      "advantage": "用途广，是烘焙和勾芡的基础骨架，更适合做结构替代测试。",
+      "disadvantage": "结构性强，但风味信息很少，风味表现会有轻微偏移。",
+      "vibeNote": "面粉不是风味型材料，更像是结构框架，很多替代都在和它的成型能力竞争。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "soy-sauce-x33",
+      "name": "酱油扩展款33",
+      "nameEn": "Soy Sauce Variant 33",
+      "aliases": [
+        "生抽",
+        "soy sauce",
+        "酱油33",
+        "variant-33"
+      ],
+      "category": "酱料调味",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Soy+Sauce",
+      "texture": "紧实",
+      "fatty": 1,
+      "umami": 9,
+      "acidity": 0,
+      "sweetness": 2,
+      "wateriness": 9,
+      "aroma": 4,
+      "cookMethods": [
+        "蘸食",
+        "炖煮",
+        "拌饭"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "bestFor": "日式饭碗、蘸汁、炒菜和酱汁打底（扩展款33）",
+      "advantage": "鲜味强，少量就能显著补味，更适合做结构替代测试。",
+      "disadvantage": "咸度高，不提供油脂和厚度，风味表现会有轻微偏移。",
+      "vibeNote": "酱油是鲜味和咸香的捷径，适合补风味，不适合补质地。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "miso-x34",
+      "name": "味噌扩展款34",
+      "nameEn": "Miso Variant 34",
+      "aliases": [
+        "miso",
+        "味增",
+        "味噌34",
+        "variant-34"
+      ],
+      "category": "酱料调味",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Miso",
+      "texture": "弹嫩",
+      "fatty": 0,
+      "umami": 10,
+      "acidity": 2,
+      "sweetness": 1,
+      "wateriness": 4,
+      "aroma": 8,
+      "cookMethods": [
+        "煮汤",
+        "腌制",
+        "调酱",
+        "凉拌"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [
+        "soy"
+      ],
+      "bestFor": "味噌汤、酱烤、蘸酱和咸口调味底（扩展款34）",
+      "advantage": "发酵鲜味强，稠度比酱油更能挂味，更适合做结构替代测试。",
+      "disadvantage": "风格明显，不适合所有西式场景，风味表现会有轻微偏移。",
+      "vibeNote": "味噌是更厚、更发酵感的鲜味来源，适合做咸口风味加强型替代。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "mayonnaise-x35",
+      "name": "蛋黄酱扩展款35",
+      "nameEn": "Mayonnaise Variant 35",
+      "aliases": [
+        "美乃滋",
+        "mayonnaise",
+        "蛋黄酱35",
+        "variant-35"
+      ],
+      "category": "酱料调味",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Mayo",
+      "texture": "柔嫩",
+      "fatty": 10,
+      "umami": 1,
+      "acidity": 7,
+      "sweetness": 3,
+      "wateriness": 1,
+      "aroma": 1,
+      "cookMethods": [
+        "抹酱",
+        "拌沙拉",
+        "调味",
+        "焗烤"
+      ],
+      "dietaryTags": [
+        "vegetarian"
+      ],
+      "allergens": [
+        "egg"
+      ],
+      "bestFor": "三明治、沙拉、蘸酱和日式小食（扩展款35）",
+      "advantage": "既补油脂又补酸感，做冷食很高效，更适合做结构替代测试。",
+      "disadvantage": "风味方向固定，热应用场景有限，风味表现会有轻微偏移。",
+      "vibeNote": "蛋黄酱是冷食里很强的质地修复器，尤其适合补浓滑和酸感。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "olive-oil-x36",
+      "name": "橄榄油扩展款36",
+      "nameEn": "Olive Oil Variant 36",
+      "aliases": [
+        "olive oil",
+        "食用橄榄油",
+        "橄榄油36",
+        "variant-36"
+      ],
+      "category": "酱料调味",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Olive+Oil",
+      "texture": "浓滑",
+      "fatty": 9,
+      "umami": 1,
+      "acidity": 1,
+      "sweetness": 0,
+      "wateriness": 1,
+      "aroma": 4,
+      "cookMethods": [
+        "凉拌",
+        "煎制",
+        "收尾",
+        "快炒"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [],
+      "bestFor": "沙拉、烤菜、意面和蘸面包（扩展款36）",
+      "advantage": "补油脂效率高，适合把轻食拉得更润，更适合做结构替代测试。",
+      "disadvantage": "单独使用时风味层次有限，风味表现会有轻微偏移。",
+      "vibeNote": "橄榄油更像油脂度补偿工具，适合给原本偏干的替代品加回顺滑感。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "peanut-butter-x37",
+      "name": "花生酱扩展款37",
+      "nameEn": "Peanut Butter Variant 37",
+      "aliases": [
+        "peanut butter",
+        "花生抹酱",
+        "花生酱37",
+        "variant-37"
+      ],
+      "category": "酱料调味",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Peanut+Butter",
+      "texture": "脆爽",
+      "fatty": 9,
+      "umami": 1,
+      "acidity": 2,
+      "sweetness": 3,
+      "wateriness": 0,
+      "aroma": 8,
+      "cookMethods": [
+        "抹面",
+        "调酱",
+        "烘焙",
+        "拌饭"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [
+        "peanut"
+      ],
+      "bestFor": "吐司、能量杯、东南亚风味酱汁和曲奇（扩展款37）",
+      "advantage": "香气和厚度都强，少量即可显著提升满足感，更适合做结构替代测试。",
+      "disadvantage": "花生风味太明显，不适合中性替代，风味表现会有轻微偏移。",
+      "vibeNote": "花生酱擅长做高存在感替代，特别适合厚重、香气型场景。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "salmon-x38",
+      "name": "三文鱼扩展款38",
+      "nameEn": "Salmon Variant 38",
+      "aliases": [
+        "大西洋鲑",
+        "salmon",
+        "三文鱼38",
+        "variant-38"
+      ],
+      "category": "海鲜蛋白",
+      "image": "https://img.icons8.com/stickers/200/000000/salmon-sushi.png",
+      "texture": "丝滑",
+      "fatty": 10,
+      "umami": 8,
+      "acidity": 1,
+      "sweetness": 2,
+      "wateriness": 4,
+      "aroma": 5,
+      "cookMethods": [
+        "生食",
+        "炙烤",
+        "拌饭",
+        "夹馅"
+      ],
+      "dietaryTags": [
+        "pescatarian"
+      ],
+      "allergens": [
+        "fish"
+      ],
+      "bestFor": "寿司碗、轻食沙拉、拌饭和吐司（扩展款38）",
+      "advantage": "口感高级、油脂饱满、鲜味稳定，更适合做结构替代测试。",
+      "disadvantage": "价格高、保鲜要求高，风味表现会有轻微偏移。",
+      "vibeNote": "适合提供顺滑油脂感和明显鲜味，是冷食里非常强势的主角食材。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "avocado-x39",
+      "name": "牛油果扩展款39",
+      "nameEn": "Avocado Variant 39",
+      "aliases": [
+        "鳄梨",
+        "avocado",
+        "牛油果39",
+        "variant-39"
+      ],
+      "category": "果脂类",
+      "image": "https://img.icons8.com/stickers/200/000000/avocado.png",
+      "texture": "绵密",
+      "fatty": 7,
+      "umami": 8,
+      "acidity": 1,
+      "sweetness": 0,
+      "wateriness": 6,
+      "aroma": 6,
+      "cookMethods": [
+        "冷拌",
+        "捣泥",
+        "铺面",
+        "调酱"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [],
+      "bestFor": "寿司碗、开放三明治、沙拉和酱泥（扩展款39）",
+      "advantage": "容易买到，能补足丝滑感和油脂感，更适合做结构替代测试。",
+      "disadvantage": "海鲜鲜味弱，整体更偏植物清香，风味表现会有轻微偏移。",
+      "vibeNote": "很适合承担丝滑和丰润感，但无法完整复刻海产的咸鲜气质。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "egg-x40",
+      "name": "鸡蛋扩展款40",
+      "nameEn": "Egg Variant 40",
+      "aliases": [
+        "鸡子",
+        "egg",
+        "鸡蛋40",
+        "variant-40"
+      ],
+      "category": "日常蛋白",
+      "image": "https://img.icons8.com/stickers/200/000000/egg.png",
+      "texture": "软嫩",
+      "fatty": 7,
+      "umami": 4,
+      "acidity": 2,
+      "sweetness": 2,
+      "wateriness": 4,
+      "aroma": 2,
+      "cookMethods": [
+        "水煮",
+        "煎制",
+        "炒制"
+      ],
+      "dietaryTags": [
+        "vegetarian"
+      ],
+      "allergens": [
+        "egg"
+      ],
+      "bestFor": "早餐碗、三明治、盖饭和简易沙拉（扩展款40）",
+      "advantage": "便宜、常见、烹饪门槛低，更适合做结构替代测试。",
+      "disadvantage": "风味更温和，视觉冲击力不如生鲜蛋白，风味表现会有轻微偏移。",
+      "vibeNote": "鸡蛋在居家替代里非常实用，能提供柔软口感和一定鲜味，但风格更家常。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "tofu-x41",
+      "name": "豆腐扩展款41",
+      "nameEn": "Tofu Variant 41",
+      "aliases": [
+        "嫩豆腐",
+        "tofu",
+        "豆腐41",
+        "variant-41"
+      ],
+      "category": "植物蛋白",
+      "image": "https://img.icons8.com/stickers/200/000000/tofu.png",
+      "texture": "紧实",
+      "fatty": 1,
+      "umami": 6,
+      "acidity": 1,
+      "sweetness": 1,
+      "wateriness": 8,
+      "aroma": 2,
+      "cookMethods": [
+        "凉拌",
+        "炖煮",
+        "轻煎"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [
+        "soy"
+      ],
+      "bestFor": "拌饭、味噌汤、清淡炒菜和轻食碗（扩展款41）",
+      "advantage": "低脂、健康、价格友好，适合大多数家庭常备，更适合做结构替代测试。",
+      "disadvantage": "油脂感不足，需要额外调味或酱汁辅助，风味表现会有轻微偏移。",
+      "vibeNote": "豆腐很擅长接住清淡和软嫩的部分，但不适合直接替代高油脂食材的满足感。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "milk-x42",
+      "name": "牛奶扩展款42",
+      "nameEn": "Milk Variant 42",
+      "aliases": [
+        "全脂奶",
+        "milk",
+        "牛奶42",
+        "variant-42"
+      ],
+      "category": "乳制品",
+      "image": "https://img.icons8.com/stickers/200/000000/milk-bottle.png",
+      "texture": "弹嫩",
+      "fatty": 6,
+      "umami": 2,
+      "acidity": 4,
+      "sweetness": 3,
+      "wateriness": 7,
+      "aroma": 4,
+      "cookMethods": [
+        "冷饮",
+        "加热",
+        "打奶泡",
+        "凉拌"
+      ],
+      "dietaryTags": [
+        "vegetarian"
+      ],
+      "allergens": [
+        "milk"
+      ],
+      "bestFor": "拿铁、燕麦杯、奶油汤和基础烘焙（扩展款42）",
+      "advantage": "适配范围广，是许多饮品和甜品的基础液体，更适合做结构替代测试。",
+      "disadvantage": "乳糖不耐受人群不友好，风味表现会有轻微偏移。",
+      "vibeNote": "牛奶偏中性、顺滑，适合作为液体基底。很多替代品都是在模仿它的顺口和乳感。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "yogurt-x43",
+      "name": "酸奶扩展款43",
+      "nameEn": "Yogurt Variant 43",
+      "aliases": [
+        "优格",
+        "yogurt",
+        "酸奶43",
+        "variant-43"
+      ],
+      "category": "乳制品",
+      "image": "https://img.icons8.com/stickers/200/000000/yogurt.png",
+      "texture": "柔嫩",
+      "fatty": 6,
+      "umami": 2,
+      "acidity": 7,
+      "sweetness": 4,
+      "wateriness": 5,
+      "aroma": 3,
+      "cookMethods": [
+        "冷拌",
+        "杯装甜品",
+        "调酱",
+        "焗烤"
+      ],
+      "dietaryTags": [
+        "vegetarian"
+      ],
+      "allergens": [
+        "milk"
+      ],
+      "bestFor": "冷饮、酱汁、隔夜燕麦和轻甜点（扩展款43）",
+      "advantage": "浓稠度强，发酵感能让风味更立体，更适合做结构替代测试。",
+      "disadvantage": "酸度高，不适合所有咖啡和甜点场景，风味表现会有轻微偏移。",
+      "vibeNote": "酸奶比牛奶更有个性，适合替代质地，但会明显改变风味走向。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "chicken-breast-x44",
+      "name": "鸡胸肉扩展款44",
+      "nameEn": "Chicken Breast Variant 44",
+      "aliases": [
+        "鸡胸",
+        "chicken breast",
+        "鸡胸肉44",
+        "variant-44"
+      ],
+      "category": "家常蛋白",
+      "image": "https://img.icons8.com/stickers/200/000000/chicken-breast.png",
+      "texture": "浓滑",
+      "fatty": 0,
+      "umami": 9,
+      "acidity": 1,
+      "sweetness": 0,
+      "wateriness": 5,
+      "aroma": 6,
+      "cookMethods": [
+        "水煮",
+        "煎制",
+        "焗烤",
+        "快炒"
+      ],
+      "dietaryTags": [],
+      "allergens": [],
+      "bestFor": "健身沙拉、热碗饭、卷饼和三明治（扩展款44）",
+      "advantage": "高蛋白、低脂、好获取，更适合做结构替代测试。",
+      "disadvantage": "如果处理不好容易偏柴，顺滑感不强，风味表现会有轻微偏移。",
+      "vibeNote": "鸡胸肉胜在实用和稳定，更像是功能型替代，而不是气质完全复刻。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "beef-x45",
+      "name": "牛肉扩展款45",
+      "nameEn": "Beef Variant 45",
+      "aliases": [
+        "牛排肉",
+        "beef",
+        "牛肉45",
+        "variant-45"
+      ],
+      "category": "红肉蛋白",
+      "image": "https://img.icons8.com/stickers/200/000000/steak.png",
+      "texture": "脆爽",
+      "fatty": 8,
+      "umami": 7,
+      "acidity": 2,
+      "sweetness": 2,
+      "wateriness": 2,
+      "aroma": 5,
+      "cookMethods": [
+        "煎制",
+        "炖煮",
+        "热拌",
+        "拌饭"
+      ],
+      "dietaryTags": [],
+      "allergens": [],
+      "bestFor": "能量碗、热拌饭、意面和煎炒主菜（扩展款45）",
+      "advantage": "鲜味很强，饱腹感和存在感都足，更适合做结构替代测试。",
+      "disadvantage": "价格偏高，整体调性更厚重，风味表现会有轻微偏移。",
+      "vibeNote": "牛肉在鲜味维度很强，适合作为强风味替代，但会把菜整体拉向更浓郁的方向。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "tuna-x46",
+      "name": "金枪鱼扩展款46",
+      "nameEn": "Tuna Variant 46",
+      "aliases": [
+        "吞拿鱼",
+        "tuna",
+        "金枪鱼46",
+        "variant-46"
+      ],
+      "category": "海鲜蛋白",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Tuna",
+      "texture": "丝滑",
+      "fatty": 3,
+      "umami": 9,
+      "acidity": 1,
+      "sweetness": 1,
+      "wateriness": 5,
+      "aroma": 6,
+      "cookMethods": [
+        "生食",
+        "炙烤",
+        "拌饭",
+        "夹馅"
+      ],
+      "dietaryTags": [
+        "pescatarian"
+      ],
+      "allergens": [
+        "fish"
+      ],
+      "bestFor": "寿司碗、三明治夹馅、沙拉和蛋白碗（扩展款46）",
+      "advantage": "鲜味强、蛋白高，很多冷食里都好替换，更适合做结构替代测试。",
+      "disadvantage": "油脂感不如三文鱼，口感更紧实，风味表现会有轻微偏移。",
+      "vibeNote": "金枪鱼更偏干净和利落，适合替代海鲜主角位，但整体风格更清爽。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "shrimp-x47",
+      "name": "虾仁扩展款47",
+      "nameEn": "Shrimp Variant 47",
+      "aliases": [
+        "虾",
+        "shrimp",
+        "虾仁47",
+        "variant-47"
+      ],
+      "category": "海鲜蛋白",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Shrimp",
+      "texture": "绵密",
+      "fatty": 2,
+      "umami": 6,
+      "acidity": 2,
+      "sweetness": 2,
+      "wateriness": 4,
+      "aroma": 6,
+      "cookMethods": [
+        "水煮",
+        "快炒",
+        "拌饭",
+        "调酱"
+      ],
+      "dietaryTags": [
+        "pescatarian"
+      ],
+      "allergens": [
+        "shellfish"
+      ],
+      "bestFor": "轻食碗、意面、炒饭和快手沙拉（扩展款47）",
+      "advantage": "熟制快、鲜味稳定、存在感明显，更适合做结构替代测试。",
+      "disadvantage": "油脂感弱，冷食时不够丝滑，风味表现会有轻微偏移。",
+      "vibeNote": "虾仁像一个更轻盈的海鲜替身，适合保住鲜味但不适合复刻油润感。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "pork-x48",
+      "name": "猪肉扩展款48",
+      "nameEn": "Pork Variant 48",
+      "aliases": [
+        "里脊",
+        "pork",
+        "猪肉48",
+        "variant-48"
+      ],
+      "category": "家常蛋白",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Pork",
+      "texture": "软嫩",
+      "fatty": 6,
+      "umami": 7,
+      "acidity": 0,
+      "sweetness": 2,
+      "wateriness": 4,
+      "aroma": 4,
+      "cookMethods": [
+        "煎制",
+        "快炒",
+        "炖煮"
+      ],
+      "dietaryTags": [],
+      "allergens": [],
+      "bestFor": "家常炒菜、盖饭、三明治和热食碗（扩展款48）",
+      "advantage": "家用普适性高，兼顾鲜味和油脂，更适合做结构替代测试。",
+      "disadvantage": "风格偏厚重，不适合所有清爽场景，风味表现会有轻微偏移。",
+      "vibeNote": "猪肉比鸡胸更圆润，适合补足一点脂香，但整体气质会更家常。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "tempeh-x49",
+      "name": "天贝扩展款49",
+      "nameEn": "Tempeh Variant 49",
+      "aliases": [
+        "印尼天贝",
+        "tempeh",
+        "天贝49",
+        "variant-49"
+      ],
+      "category": "植物蛋白",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Tempeh",
+      "texture": "紧实",
+      "fatty": 2,
+      "umami": 8,
+      "acidity": 1,
+      "sweetness": 0,
+      "wateriness": 4,
+      "aroma": 7,
+      "cookMethods": [
+        "煎制",
+        "焗烤",
+        "拌饭",
+        "炖煮"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [
+        "soy"
+      ],
+      "bestFor": "植物蛋白碗、卷饼、沙拉和热三明治（扩展款49）",
+      "advantage": "蛋白密度高，咬感更接近肉类，更适合做结构替代测试。",
+      "disadvantage": "豆发酵风味明显，不一定适合所有人，风味表现会有轻微偏移。",
+      "vibeNote": "天贝比豆腐更像肉类替代，特别适合需要紧实口感的场景。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "chickpeas-x50",
+      "name": "鹰嘴豆扩展款50",
+      "nameEn": "Chickpeas Variant 50",
+      "aliases": [
+        "鸡豆",
+        "chickpeas",
+        "鹰嘴豆50",
+        "variant-50"
+      ],
+      "category": "植物蛋白",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Chickpeas",
+      "texture": "弹嫩",
+      "fatty": 4,
+      "umami": 2,
+      "acidity": 2,
+      "sweetness": 3,
+      "wateriness": 2,
+      "aroma": 1,
+      "cookMethods": [
+        "炖煮",
+        "烘烤",
+        "捣泥",
+        "凉拌"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [],
+      "bestFor": "沙拉、豆泥酱、烤碗和植物蛋白拼盘（扩展款50）",
+      "advantage": "便于储存，饱腹感强，适合做豆泥和烤豆，更适合做结构替代测试。",
+      "disadvantage": "鲜味和油脂感都偏弱，需要调味支持，风味表现会有轻微偏移。",
+      "vibeNote": "鹰嘴豆更像是温和稳妥的结构型替代，适合撑起体积和绵密感。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "oat-milk-x51",
+      "name": "燕麦奶扩展款51",
+      "nameEn": "Oat Milk Variant 51",
+      "aliases": [
+        "燕麦饮",
+        "oat milk",
+        "燕麦奶51",
+        "variant-51"
+      ],
+      "category": "植物奶",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Oat+Milk",
+      "texture": "柔嫩",
+      "fatty": 3,
+      "umami": 2,
+      "acidity": 2,
+      "sweetness": 4,
+      "wateriness": 9,
+      "aroma": 3,
+      "cookMethods": [
+        "冷饮",
+        "加热",
+        "打奶泡",
+        "焗烤"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "bestFor": "拿铁、谷物碗、奶昔和轻烘焙（扩展款51）",
+      "advantage": "植物感柔和，和咖啡搭配接受度高，更适合做结构替代测试。",
+      "disadvantage": "乳感和鲜味不如牛奶，容易略甜，风味表现会有轻微偏移。",
+      "vibeNote": "燕麦奶是很实用的牛奶替代，核心优势是顺滑度和易搭配性。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "coconut-milk-x52",
+      "name": "椰奶扩展款52",
+      "nameEn": "Coconut Milk Variant 52",
+      "aliases": [
+        "椰浆",
+        "coconut milk",
+        "椰奶52",
+        "variant-52"
+      ],
+      "category": "植物奶",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Coconut+Milk",
+      "texture": "浓滑",
+      "fatty": 8,
+      "umami": 1,
+      "acidity": 2,
+      "sweetness": 3,
+      "wateriness": 5,
+      "aroma": 7,
+      "cookMethods": [
+        "炖煮",
+        "调饮",
+        "烘焙",
+        "快炒"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [],
+      "bestFor": "咖喱、热带风味甜品、奶昔和浓汤（扩展款52）",
+      "advantage": "油脂感足，能快速补出奶香和厚度，更适合做结构替代测试。",
+      "disadvantage": "椰香明显，会强烈改变风味方向，风味表现会有轻微偏移。",
+      "vibeNote": "椰奶擅长补足浓润感，但会把菜整体拉向热带和甜香方向。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "cream-x53",
+      "name": "淡奶油扩展款53",
+      "nameEn": "Cream Variant 53",
+      "aliases": [
+        "稀奶油",
+        "cream",
+        "淡奶油53",
+        "variant-53"
+      ],
+      "category": "乳制品",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Cream",
+      "texture": "脆爽",
+      "fatty": 10,
+      "umami": 2,
+      "acidity": 1,
+      "sweetness": 3,
+      "wateriness": 4,
+      "aroma": 2,
+      "cookMethods": [
+        "打发",
+        "炖煮",
+        "烘焙",
+        "拌饭"
+      ],
+      "dietaryTags": [
+        "vegetarian"
+      ],
+      "allergens": [
+        "milk"
+      ],
+      "bestFor": "意面酱、奶油汤、蛋糕和甜品夹层（扩展款53）",
+      "advantage": "厚度和顺滑度很强，能快速建立浓郁口感，更适合做结构替代测试。",
+      "disadvantage": "热量高，日常替代成本偏重，风味表现会有轻微偏移。",
+      "vibeNote": "淡奶油像是把乳感推到更厚重的一端，适合做口感加强型替代。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "butter-x54",
+      "name": "黄油扩展款54",
+      "nameEn": "Butter Variant 54",
+      "aliases": [
+        "奶油块",
+        "butter",
+        "黄油54",
+        "variant-54"
+      ],
+      "category": "乳制品",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Butter",
+      "texture": "丝滑",
+      "fatty": 8,
+      "umami": 4,
+      "acidity": 1,
+      "sweetness": 0,
+      "wateriness": 2,
+      "aroma": 7,
+      "cookMethods": [
+        "烘焙",
+        "煎制",
+        "抹面",
+        "夹馅"
+      ],
+      "dietaryTags": [
+        "vegetarian"
+      ],
+      "allergens": [
+        "milk"
+      ],
+      "bestFor": "烘焙、煎香、做酱和抹面提香（扩展款54）",
+      "advantage": "脂香强，少量就能显著提升满足感，更适合做结构替代测试。",
+      "disadvantage": "液体替代能力差，风格很重，风味表现会有轻微偏移。",
+      "vibeNote": "黄油更像是油脂和香气补强器，不是所有奶类都能直接用它顶。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "mozzarella-x55",
+      "name": "马苏里拉扩展款55",
+      "nameEn": "Mozzarella Variant 55",
+      "aliases": [
+        "mozzarella",
+        "马苏",
+        "马苏里拉55",
+        "variant-55"
+      ],
+      "category": "乳制品",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Mozzarella",
+      "texture": "绵密",
+      "fatty": 9,
+      "umami": 3,
+      "acidity": 3,
+      "sweetness": 2,
+      "wateriness": 3,
+      "aroma": 2,
+      "cookMethods": [
+        "焗烤",
+        "冷拌",
+        "夹馅",
+        "调酱"
+      ],
+      "dietaryTags": [
+        "vegetarian"
+      ],
+      "allergens": [
+        "milk"
+      ],
+      "bestFor": "披萨、烤吐司、焗饭和卡普雷塞沙拉（扩展款55）",
+      "advantage": "拉丝表现强，视觉效果好，更适合做结构替代测试。",
+      "disadvantage": "风味比较温和，不是浓郁型奶酪，风味表现会有轻微偏移。",
+      "vibeNote": "马苏里拉更像结构和拉丝担当，适合视觉和口感迁移。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "cream-cheese-x56",
+      "name": "奶油奶酪扩展款56",
+      "nameEn": "Cream Cheese Variant 56",
+      "aliases": [
+        "cream cheese",
+        "软奶酪",
+        "奶油奶酪56",
+        "variant-56"
+      ],
+      "category": "乳制品",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Cream+Cheese",
+      "texture": "软嫩",
+      "fatty": 7,
+      "umami": 4,
+      "acidity": 3,
+      "sweetness": 2,
+      "wateriness": 4,
+      "aroma": 4,
+      "cookMethods": [
+        "抹面",
+        "烘焙",
+        "调酱",
+        "煎制"
+      ],
+      "dietaryTags": [
+        "vegetarian"
+      ],
+      "allergens": [
+        "milk"
+      ],
+      "bestFor": "贝果、芝士蛋糕、奶酪酱和夹馅（扩展款56）",
+      "advantage": "质地稳定，抹面和夹层表现很好，更适合做结构替代测试。",
+      "disadvantage": "风格偏厚，不适合替代轻盈乳品，风味表现会有轻微偏移。",
+      "vibeNote": "奶油奶酪是更厚、更稳的乳感版本，适合需要稠度和附着力的场景。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "mushroom-x57",
+      "name": "蘑菇扩展款57",
+      "nameEn": "Mushroom Variant 57",
+      "aliases": [
+        "菌菇",
+        "mushroom",
+        "蘑菇57",
+        "variant-57"
+      ],
+      "category": "鲜蔬菌菇",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Mushroom",
+      "texture": "紧实",
+      "fatty": 1,
+      "umami": 7,
+      "acidity": 2,
+      "sweetness": 1,
+      "wateriness": 4,
+      "aroma": 7,
+      "cookMethods": [
+        "煎制",
+        "炖煮",
+        "快炒"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [],
+      "bestFor": "意面、炖饭、汉堡和植物系主菜（扩展款57）",
+      "advantage": "鲜味很强，是很多肉类替代里的核心角色，更适合做结构替代测试。",
+      "disadvantage": "缺少真正的油脂感，口感也更轻，风味表现会有轻微偏移。",
+      "vibeNote": "蘑菇是鲜味迁移的明星选手，特别适合补足肉类缺位时的气场。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "tomato-x58",
+      "name": "番茄扩展款58",
+      "nameEn": "Tomato Variant 58",
+      "aliases": [
+        "西红柿",
+        "tomato",
+        "番茄58",
+        "variant-58"
+      ],
+      "category": "鲜蔬果",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Tomato",
+      "texture": "弹嫩",
+      "fatty": 2,
+      "umami": 4,
+      "acidity": 6,
+      "sweetness": 4,
+      "wateriness": 9,
+      "aroma": 3,
+      "cookMethods": [
+        "凉拌",
+        "炖煮",
+        "烘烤"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [],
+      "bestFor": "意面酱、沙拉、炖菜和烤盘料理（扩展款58）",
+      "advantage": "酸甜平衡好，含水量高，适合带出清爽感，更适合做结构替代测试。",
+      "disadvantage": "本体感偏轻，不适合顶替厚重食材，风味表现会有轻微偏移。",
+      "vibeNote": "番茄擅长补酸度和汁感，是很多料理里风味平衡器而不是主体油脂源。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "cucumber-x59",
+      "name": "黄瓜扩展款59",
+      "nameEn": "Cucumber Variant 59",
+      "aliases": [
+        "青瓜",
+        "cucumber",
+        "黄瓜59",
+        "variant-59"
+      ],
+      "category": "鲜蔬果",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Cucumber",
+      "texture": "柔嫩",
+      "fatty": 0,
+      "umami": 3,
+      "acidity": 1,
+      "sweetness": 0,
+      "wateriness": 10,
+      "aroma": 4,
+      "cookMethods": [
+        "生食",
+        "凉拌",
+        "夹馅",
+        "焗烤"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [],
+      "bestFor": "三明治、卷饼、冷盘和清爽沙拉（扩展款59）",
+      "advantage": "清爽、便宜、含水量高，适合补脆感，更适合做结构替代测试。",
+      "disadvantage": "风味和厚度都弱，不能承担主角食材功能，风味表现会有轻微偏移。",
+      "vibeNote": "黄瓜更像质地和清爽度替代，不适合承担浓郁型食材的角色。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "cauliflower-x60",
+      "name": "花椰菜扩展款60",
+      "nameEn": "Cauliflower Variant 60",
+      "aliases": [
+        "菜花",
+        "cauliflower",
+        "花椰菜60",
+        "variant-60"
+      ],
+      "category": "鲜蔬果",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Cauliflower",
+      "texture": "浓滑",
+      "fatty": 2,
+      "umami": 1,
+      "acidity": 2,
+      "sweetness": 3,
+      "wateriness": 3,
+      "aroma": 0,
+      "cookMethods": [
+        "烘烤",
+        "快炒",
+        "打碎"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [],
+      "bestFor": "低碳米饭替代、烤盘菜和浓汤（扩展款60）",
+      "advantage": "吸味能力好，适合做结构型主食替代，更适合做结构替代测试。",
+      "disadvantage": "自身风味轻，饱腹感和主食感有限，风味表现会有轻微偏移。",
+      "vibeNote": "花椰菜常用来顶主食或做绵松底层，更像结构迁移而不是风味迁移。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "spinach-x61",
+      "name": "菠菜扩展款61",
+      "nameEn": "Spinach Variant 61",
+      "aliases": [
+        "波菜",
+        "spinach",
+        "菠菜61",
+        "variant-61"
+      ],
+      "category": "鲜蔬果",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Spinach",
+      "texture": "脆爽",
+      "fatty": 0,
+      "umami": 4,
+      "acidity": 1,
+      "sweetness": 1,
+      "wateriness": 8,
+      "aroma": 3,
+      "cookMethods": [
+        "快炒",
+        "汆烫",
+        "拌面",
+        "拌饭"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [],
+      "bestFor": "蛋饼、意面、轻汤和早餐碗（扩展款61）",
+      "advantage": "颜色和柔软叶感都适合补绿色蔬菜位，更适合做结构替代测试。",
+      "disadvantage": "体积塌缩明显，存在感偏弱，风味表现会有轻微偏移。",
+      "vibeNote": "菠菜偏柔和，适合用来接住绿叶菜角色，但不适合做质地主角。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "zucchini-x62",
+      "name": "西葫芦扩展款62",
+      "nameEn": "Zucchini Variant 62",
+      "aliases": [
+        "夏南瓜",
+        "zucchini",
+        "西葫芦62",
+        "variant-62"
+      ],
+      "category": "鲜蔬果",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Zucchini",
+      "texture": "丝滑",
+      "fatty": 0,
+      "umami": 1,
+      "acidity": 2,
+      "sweetness": 2,
+      "wateriness": 7,
+      "aroma": 3,
+      "cookMethods": [
+        "煎制",
+        "烘烤",
+        "拌面",
+        "夹馅"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [],
+      "bestFor": "烤盘菜、意面、轻煎配菜和低碳料理（扩展款62）",
+      "advantage": "容易吸味，熟后质地柔软，更适合做结构替代测试。",
+      "disadvantage": "本身风味弱，容易出水，风味表现会有轻微偏移。",
+      "vibeNote": "西葫芦适合承担轻盈蔬菜位，能补柔软感但不适合浓味主菜替代。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "potato-x63",
+      "name": "土豆扩展款63",
+      "nameEn": "Potato Variant 63",
+      "aliases": [
+        "马铃薯",
+        "potato",
+        "土豆63",
+        "variant-63"
+      ],
+      "category": "根茎主食",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Potato",
+      "texture": "绵密",
+      "fatty": 1,
+      "umami": 2,
+      "acidity": 0,
+      "sweetness": 2,
+      "wateriness": 3,
+      "aroma": 1,
+      "cookMethods": [
+        "烘烤",
+        "水煮",
+        "压泥",
+        "调酱"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [],
+      "bestFor": "泥、薯块、浓汤和焗烤配菜（扩展款63）",
+      "advantage": "饱腹感强，绵密度高，适合补体积，更适合做结构替代测试。",
+      "disadvantage": "风味比较平，不提供鲜味和油脂，风味表现会有轻微偏移。",
+      "vibeNote": "土豆是非常强的结构型替代，擅长给菜增加厚实感和绵密感。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "banana-x64",
+      "name": "香蕉扩展款64",
+      "nameEn": "Banana Variant 64",
+      "aliases": [
+        "banana",
+        "蕉",
+        "香蕉64",
+        "variant-64"
+      ],
+      "category": "鲜蔬果",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Banana",
+      "texture": "软嫩",
+      "fatty": 0,
+      "umami": 3,
+      "acidity": 2,
+      "sweetness": 7,
+      "wateriness": 6,
+      "aroma": 8,
+      "cookMethods": [
+        "打泥",
+        "烘焙",
+        "调饮",
+        "煎制"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [],
+      "bestFor": "奶昔、燕麦碗、松饼和健康烘焙（扩展款64）",
+      "advantage": "天然甜度高，能补黏合感和绵密口感，更适合做结构替代测试。",
+      "disadvantage": "香蕉香气明显，不适合所有甜品替代，风味表现会有轻微偏移。",
+      "vibeNote": "香蕉在甜口替代里很强，尤其适合接住绵密感和天然甜味。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "rice-x65",
+      "name": "米饭扩展款65",
+      "nameEn": "Rice Variant 65",
+      "aliases": [
+        "白饭",
+        "rice",
+        "米饭65",
+        "variant-65"
+      ],
+      "category": "主食谷物",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Rice",
+      "texture": "紧实",
+      "fatty": 2,
+      "umami": 0,
+      "acidity": 1,
+      "sweetness": 2,
+      "wateriness": 3,
+      "aroma": 0,
+      "cookMethods": [
+        "蒸煮",
+        "拌饭",
+        "焗饭",
+        "炖煮"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [],
+      "bestFor": "饭碗、咖喱饭、炒饭和寿司饭底（扩展款65）",
+      "advantage": "中性稳定，是最通用的主食底座之一，更适合做结构替代测试。",
+      "disadvantage": "本身风味弱，需要靠配料和酱汁撑气质，风味表现会有轻微偏移。",
+      "vibeNote": "米饭像一个中性底板，自己不抢戏，但能托住很多替代组合。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "pasta-x66",
+      "name": "意面扩展款66",
+      "nameEn": "Pasta Variant 66",
+      "aliases": [
+        "pasta",
+        "面条",
+        "意面66",
+        "variant-66"
+      ],
+      "category": "主食谷物",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Pasta",
+      "texture": "弹嫩",
+      "fatty": 0,
+      "umami": 2,
+      "acidity": 0,
+      "sweetness": 1,
+      "wateriness": 4,
+      "aroma": 1,
+      "cookMethods": [
+        "水煮",
+        "拌酱",
+        "焗烤",
+        "凉拌"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "bestFor": "奶油面、番茄面、焗面和冷面沙拉（扩展款66）",
+      "advantage": "酱汁承载能力强，口感稳定，更适合做结构替代测试。",
+      "disadvantage": "风味中性，无法替代米饭那种颗粒分明感，风味表现会有轻微偏移。",
+      "vibeNote": "意面更重视弹韧和挂汁能力，适合作为酱汁型主食底。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "bread-x67",
+      "name": "面包扩展款67",
+      "nameEn": "Bread Variant 67",
+      "aliases": [
+        "吐司",
+        "bread",
+        "面包67",
+        "variant-67"
+      ],
+      "category": "主食谷物",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Bread",
+      "texture": "柔嫩",
+      "fatty": 2,
+      "umami": 1,
+      "acidity": 2,
+      "sweetness": 2,
+      "wateriness": 1,
+      "aroma": 5,
+      "cookMethods": [
+        "夹馅",
+        "烘烤",
+        "抹酱",
+        "焗烤"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "bestFor": "三明治、吐司盘、开放面包和法式早餐（扩展款67）",
+      "advantage": "上手快，适合承载酱料和主料，更适合做结构替代测试。",
+      "disadvantage": "含水量低，不适合替代湿润型主食，风味表现会有轻微偏移。",
+      "vibeNote": "面包更像一个蓬松载体，擅长接住夹馅和抹酱场景。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "oats-x68",
+      "name": "燕麦扩展款68",
+      "nameEn": "Oats Variant 68",
+      "aliases": [
+        "麦片",
+        "oats",
+        "燕麦68",
+        "variant-68"
+      ],
+      "category": "主食谷物",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Oats",
+      "texture": "浓滑",
+      "fatty": 4,
+      "umami": 1,
+      "acidity": 0,
+      "sweetness": 3,
+      "wateriness": 4,
+      "aroma": 2,
+      "cookMethods": [
+        "熬煮",
+        "冷泡",
+        "烘焙",
+        "快炒"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "bestFor": "早餐碗、隔夜燕麦、能量棒和健康烘焙（扩展款68）",
+      "advantage": "饱腹感好，和奶类与水果兼容性高，更适合做结构替代测试。",
+      "disadvantage": "颗粒感和面粉结构不能完全互替，风味表现会有轻微偏移。",
+      "vibeNote": "燕麦偏温和和健康路线，适合早餐和轻烘焙里的基础替代。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "flour-x69",
+      "name": "面粉扩展款69",
+      "nameEn": "Flour Variant 69",
+      "aliases": [
+        "小麦粉",
+        "flour",
+        "面粉69",
+        "variant-69"
+      ],
+      "category": "烘焙原料",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Flour",
+      "texture": "脆爽",
+      "fatty": 0,
+      "umami": 3,
+      "acidity": 0,
+      "sweetness": 0,
+      "wateriness": 1,
+      "aroma": 3,
+      "cookMethods": [
+        "烘焙",
+        "裹粉",
+        "勾芡",
+        "拌饭"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "bestFor": "蛋糕、饼干、面糊和基础面团（扩展款69）",
+      "advantage": "用途广，是烘焙和勾芡的基础骨架，更适合做结构替代测试。",
+      "disadvantage": "结构性强，但风味信息很少，风味表现会有轻微偏移。",
+      "vibeNote": "面粉不是风味型材料，更像是结构框架，很多替代都在和它的成型能力竞争。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "soy-sauce-x70",
+      "name": "酱油扩展款70",
+      "nameEn": "Soy Sauce Variant 70",
+      "aliases": [
+        "生抽",
+        "soy sauce",
+        "酱油70",
+        "variant-70"
+      ],
+      "category": "酱料调味",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Soy+Sauce",
+      "texture": "丝滑",
+      "fatty": 2,
+      "umami": 7,
+      "acidity": 2,
+      "sweetness": 2,
+      "wateriness": 8,
+      "aroma": 3,
+      "cookMethods": [
+        "蘸食",
+        "炖煮",
+        "拌饭",
+        "夹馅"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "bestFor": "日式饭碗、蘸汁、炒菜和酱汁打底（扩展款70）",
+      "advantage": "鲜味强，少量就能显著补味，更适合做结构替代测试。",
+      "disadvantage": "咸度高，不提供油脂和厚度，风味表现会有轻微偏移。",
+      "vibeNote": "酱油是鲜味和咸香的捷径，适合补风味，不适合补质地。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "miso-x71",
+      "name": "味噌扩展款71",
+      "nameEn": "Miso Variant 71",
+      "aliases": [
+        "miso",
+        "味增",
+        "味噌71",
+        "variant-71"
+      ],
+      "category": "酱料调味",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Miso",
+      "texture": "绵密",
+      "fatty": 1,
+      "umami": 10,
+      "acidity": 2,
+      "sweetness": 2,
+      "wateriness": 4,
+      "aroma": 6,
+      "cookMethods": [
+        "煮汤",
+        "腌制",
+        "调酱"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [
+        "soy"
+      ],
+      "bestFor": "味噌汤、酱烤、蘸酱和咸口调味底（扩展款71）",
+      "advantage": "发酵鲜味强，稠度比酱油更能挂味，更适合做结构替代测试。",
+      "disadvantage": "风格明显，不适合所有西式场景，风味表现会有轻微偏移。",
+      "vibeNote": "味噌是更厚、更发酵感的鲜味来源，适合做咸口风味加强型替代。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "mayonnaise-x72",
+      "name": "蛋黄酱扩展款72",
+      "nameEn": "Mayonnaise Variant 72",
+      "aliases": [
+        "美乃滋",
+        "mayonnaise",
+        "蛋黄酱72",
+        "variant-72"
+      ],
+      "category": "酱料调味",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Mayo",
+      "texture": "软嫩",
+      "fatty": 9,
+      "umami": 2,
+      "acidity": 7,
+      "sweetness": 2,
+      "wateriness": 1,
+      "aroma": 4,
+      "cookMethods": [
+        "抹酱",
+        "拌沙拉",
+        "调味",
+        "煎制"
+      ],
+      "dietaryTags": [
+        "vegetarian"
+      ],
+      "allergens": [
+        "egg"
+      ],
+      "bestFor": "三明治、沙拉、蘸酱和日式小食（扩展款72）",
+      "advantage": "既补油脂又补酸感，做冷食很高效，更适合做结构替代测试。",
+      "disadvantage": "风味方向固定，热应用场景有限，风味表现会有轻微偏移。",
+      "vibeNote": "蛋黄酱是冷食里很强的质地修复器，尤其适合补浓滑和酸感。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "olive-oil-x73",
+      "name": "橄榄油扩展款73",
+      "nameEn": "Olive Oil Variant 73",
+      "aliases": [
+        "olive oil",
+        "食用橄榄油",
+        "橄榄油73",
+        "variant-73"
+      ],
+      "category": "酱料调味",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Olive+Oil",
+      "texture": "紧实",
+      "fatty": 10,
+      "umami": 0,
+      "acidity": 0,
+      "sweetness": 1,
+      "wateriness": 0,
+      "aroma": 3,
+      "cookMethods": [
+        "凉拌",
+        "煎制",
+        "收尾",
+        "炖煮"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [],
+      "bestFor": "沙拉、烤菜、意面和蘸面包（扩展款73）",
+      "advantage": "补油脂效率高，适合把轻食拉得更润，更适合做结构替代测试。",
+      "disadvantage": "单独使用时风味层次有限，风味表现会有轻微偏移。",
+      "vibeNote": "橄榄油更像油脂度补偿工具，适合给原本偏干的替代品加回顺滑感。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "peanut-butter-x74",
+      "name": "花生酱扩展款74",
+      "nameEn": "Peanut Butter Variant 74",
+      "aliases": [
+        "peanut butter",
+        "花生抹酱",
+        "花生酱74",
+        "variant-74"
+      ],
+      "category": "酱料调味",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Peanut+Butter",
+      "texture": "弹嫩",
+      "fatty": 7,
+      "umami": 4,
+      "acidity": 1,
+      "sweetness": 2,
+      "wateriness": 2,
+      "aroma": 9,
+      "cookMethods": [
+        "抹面",
+        "调酱",
+        "烘焙",
+        "凉拌"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [
+        "peanut"
+      ],
+      "bestFor": "吐司、能量杯、东南亚风味酱汁和曲奇（扩展款74）",
+      "advantage": "香气和厚度都强，少量即可显著提升满足感，更适合做结构替代测试。",
+      "disadvantage": "花生风味太明显，不适合中性替代，风味表现会有轻微偏移。",
+      "vibeNote": "花生酱擅长做高存在感替代，特别适合厚重、香气型场景。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "salmon-x75",
+      "name": "三文鱼扩展款75",
+      "nameEn": "Salmon Variant 75",
+      "aliases": [
+        "大西洋鲑",
+        "salmon",
+        "三文鱼75",
+        "variant-75"
+      ],
+      "category": "海鲜蛋白",
+      "image": "https://img.icons8.com/stickers/200/000000/salmon-sushi.png",
+      "texture": "柔嫩",
+      "fatty": 10,
+      "umami": 6,
+      "acidity": 3,
+      "sweetness": 2,
+      "wateriness": 3,
+      "aroma": 4,
+      "cookMethods": [
+        "生食",
+        "炙烤",
+        "拌饭",
+        "焗烤"
+      ],
+      "dietaryTags": [
+        "pescatarian"
+      ],
+      "allergens": [
+        "fish"
+      ],
+      "bestFor": "寿司碗、轻食沙拉、拌饭和吐司（扩展款75）",
+      "advantage": "口感高级、油脂饱满、鲜味稳定，更适合做结构替代测试。",
+      "disadvantage": "价格高、保鲜要求高，风味表现会有轻微偏移。",
+      "vibeNote": "适合提供顺滑油脂感和明显鲜味，是冷食里非常强势的主角食材。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "avocado-x76",
+      "name": "牛油果扩展款76",
+      "nameEn": "Avocado Variant 76",
+      "aliases": [
+        "鳄梨",
+        "avocado",
+        "牛油果76",
+        "variant-76"
+      ],
+      "category": "果脂类",
+      "image": "https://img.icons8.com/stickers/200/000000/avocado.png",
+      "texture": "浓滑",
+      "fatty": 8,
+      "umami": 7,
+      "acidity": 1,
+      "sweetness": 1,
+      "wateriness": 6,
+      "aroma": 4,
+      "cookMethods": [
+        "冷拌",
+        "捣泥",
+        "铺面",
+        "快炒"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [],
+      "bestFor": "寿司碗、开放三明治、沙拉和酱泥（扩展款76）",
+      "advantage": "容易买到，能补足丝滑感和油脂感，更适合做结构替代测试。",
+      "disadvantage": "海鲜鲜味弱，整体更偏植物清香，风味表现会有轻微偏移。",
+      "vibeNote": "很适合承担丝滑和丰润感，但无法完整复刻海产的咸鲜气质。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "egg-x77",
+      "name": "鸡蛋扩展款77",
+      "nameEn": "Egg Variant 77",
+      "aliases": [
+        "鸡子",
+        "egg",
+        "鸡蛋77",
+        "variant-77"
+      ],
+      "category": "日常蛋白",
+      "image": "https://img.icons8.com/stickers/200/000000/egg.png",
+      "texture": "脆爽",
+      "fatty": 5,
+      "umami": 5,
+      "acidity": 2,
+      "sweetness": 1,
+      "wateriness": 4,
+      "aroma": 5,
+      "cookMethods": [
+        "水煮",
+        "煎制",
+        "炒制",
+        "拌饭"
+      ],
+      "dietaryTags": [
+        "vegetarian"
+      ],
+      "allergens": [
+        "egg"
+      ],
+      "bestFor": "早餐碗、三明治、盖饭和简易沙拉（扩展款77）",
+      "advantage": "便宜、常见、烹饪门槛低，更适合做结构替代测试。",
+      "disadvantage": "风味更温和，视觉冲击力不如生鲜蛋白，风味表现会有轻微偏移。",
+      "vibeNote": "鸡蛋在居家替代里非常实用，能提供柔软口感和一定鲜味，但风格更家常。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "tofu-x78",
+      "name": "豆腐扩展款78",
+      "nameEn": "Tofu Variant 78",
+      "aliases": [
+        "嫩豆腐",
+        "tofu",
+        "豆腐78",
+        "variant-78"
+      ],
+      "category": "植物蛋白",
+      "image": "https://img.icons8.com/stickers/200/000000/tofu.png",
+      "texture": "丝滑",
+      "fatty": 3,
+      "umami": 5,
+      "acidity": 0,
+      "sweetness": 2,
+      "wateriness": 7,
+      "aroma": 1,
+      "cookMethods": [
+        "凉拌",
+        "炖煮",
+        "轻煎",
+        "夹馅"
+      ],
+      "dietaryTags": [
+        "vegan"
+      ],
+      "allergens": [
+        "soy"
+      ],
+      "bestFor": "拌饭、味噌汤、清淡炒菜和轻食碗（扩展款78）",
+      "advantage": "低脂、健康、价格友好，适合大多数家庭常备，更适合做结构替代测试。",
+      "disadvantage": "油脂感不足，需要额外调味或酱汁辅助，风味表现会有轻微偏移。",
+      "vibeNote": "豆腐很擅长接住清淡和软嫩的部分，但不适合直接替代高油脂食材的满足感。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "milk-x79",
+      "name": "牛奶扩展款79",
+      "nameEn": "Milk Variant 79",
+      "aliases": [
+        "全脂奶",
+        "milk",
+        "牛奶79",
+        "variant-79"
+      ],
+      "category": "乳制品",
+      "image": "https://img.icons8.com/stickers/200/000000/milk-bottle.png",
+      "texture": "绵密",
+      "fatty": 4,
+      "umami": 5,
+      "acidity": 3,
+      "sweetness": 2,
+      "wateriness": 9,
+      "aroma": 5,
+      "cookMethods": [
+        "冷饮",
+        "加热",
+        "打奶泡",
+        "调酱"
+      ],
+      "dietaryTags": [
+        "vegetarian"
+      ],
+      "allergens": [
+        "milk"
+      ],
+      "bestFor": "拿铁、燕麦杯、奶油汤和基础烘焙（扩展款79）",
+      "advantage": "适配范围广，是许多饮品和甜品的基础液体，更适合做结构替代测试。",
+      "disadvantage": "乳糖不耐受人群不友好，风味表现会有轻微偏移。",
+      "vibeNote": "牛奶偏中性、顺滑，适合作为液体基底。很多替代品都是在模仿它的顺口和乳感。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "yogurt-x80",
+      "name": "酸奶扩展款80",
+      "nameEn": "Yogurt Variant 80",
+      "aliases": [
+        "优格",
+        "yogurt",
+        "酸奶80",
+        "variant-80"
+      ],
+      "category": "乳制品",
+      "image": "https://img.icons8.com/stickers/200/000000/yogurt.png",
+      "texture": "软嫩",
+      "fatty": 7,
+      "umami": 0,
+      "acidity": 9,
+      "sweetness": 4,
+      "wateriness": 4,
+      "aroma": 2,
+      "cookMethods": [
+        "冷拌",
+        "杯装甜品",
+        "调酱",
+        "煎制"
+      ],
+      "dietaryTags": [
+        "vegetarian"
+      ],
+      "allergens": [
+        "milk"
+      ],
+      "bestFor": "冷饮、酱汁、隔夜燕麦和轻甜点（扩展款80）",
+      "advantage": "浓稠度强，发酵感能让风味更立体，更适合做结构替代测试。",
+      "disadvantage": "酸度高，不适合所有咖啡和甜点场景，风味表现会有轻微偏移。",
+      "vibeNote": "酸奶比牛奶更有个性，适合替代质地，但会明显改变风味走向。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "chicken-breast-x81",
+      "name": "鸡胸肉扩展款81",
+      "nameEn": "Chicken Breast Variant 81",
+      "aliases": [
+        "鸡胸",
+        "chicken breast",
+        "鸡胸肉81",
+        "variant-81"
+      ],
+      "category": "家常蛋白",
+      "image": "https://img.icons8.com/stickers/200/000000/chicken-breast.png",
+      "texture": "紧实",
+      "fatty": 1,
+      "umami": 8,
+      "acidity": 1,
+      "sweetness": 1,
+      "wateriness": 5,
+      "aroma": 4,
+      "cookMethods": [
+        "水煮",
+        "煎制",
+        "焗烤",
+        "炖煮"
+      ],
+      "dietaryTags": [],
+      "allergens": [],
+      "bestFor": "健身沙拉、热碗饭、卷饼和三明治（扩展款81）",
+      "advantage": "高蛋白、低脂、好获取，更适合做结构替代测试。",
+      "disadvantage": "如果处理不好容易偏柴，顺滑感不强，风味表现会有轻微偏移。",
+      "vibeNote": "鸡胸肉胜在实用和稳定，更像是功能型替代，而不是气质完全复刻。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "beef-x82",
+      "name": "牛肉扩展款82",
+      "nameEn": "Beef Variant 82",
+      "aliases": [
+        "牛排肉",
+        "beef",
+        "牛肉82",
+        "variant-82"
+      ],
+      "category": "红肉蛋白",
+      "image": "https://img.icons8.com/stickers/200/000000/steak.png",
+      "texture": "弹嫩",
+      "fatty": 6,
+      "umami": 8,
+      "acidity": 2,
+      "sweetness": 1,
+      "wateriness": 2,
+      "aroma": 8,
+      "cookMethods": [
+        "煎制",
+        "炖煮",
+        "热拌",
+        "凉拌"
+      ],
+      "dietaryTags": [],
+      "allergens": [],
+      "bestFor": "能量碗、热拌饭、意面和煎炒主菜（扩展款82）",
+      "advantage": "鲜味很强，饱腹感和存在感都足，更适合做结构替代测试。",
+      "disadvantage": "价格偏高，整体调性更厚重，风味表现会有轻微偏移。",
+      "vibeNote": "牛肉在鲜味维度很强，适合作为强风味替代，但会把菜整体拉向更浓郁的方向。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    },
+    {
+      "id": "tuna-x83",
+      "name": "金枪鱼扩展款83",
+      "nameEn": "Tuna Variant 83",
+      "aliases": [
+        "吞拿鱼",
+        "tuna",
+        "金枪鱼83",
+        "variant-83"
+      ],
+      "category": "海鲜蛋白",
+      "image": "https://placehold.co/200x200/F6EFE3/243127?text=Tuna",
+      "texture": "柔嫩",
+      "fatty": 5,
+      "umami": 8,
+      "acidity": 0,
+      "sweetness": 2,
+      "wateriness": 4,
+      "aroma": 5,
+      "cookMethods": [
+        "生食",
+        "炙烤",
+        "拌饭",
+        "焗烤"
+      ],
+      "dietaryTags": [
+        "pescatarian"
+      ],
+      "allergens": [
+        "fish"
+      ],
+      "bestFor": "寿司碗、三明治夹馅、沙拉和蛋白碗（扩展款83）",
+      "advantage": "鲜味强、蛋白高，很多冷食里都好替换，更适合做结构替代测试。",
+      "disadvantage": "油脂感不如三文鱼，口感更紧实，风味表现会有轻微偏移。",
+      "vibeNote": "金枪鱼更偏干净和利落，适合替代海鲜主角位，但整体风格更清爽。 该版本用于扩展样本库，保持核心定位并加入小幅结构变化。"
+    }
+  ],
+  "dimensions": []
+}
